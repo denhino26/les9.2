@@ -1,0 +1,15 @@
+.headernav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    
+}
+
+a{
+    border-style: solid;
+    border-color: yellow;
+    color: lightblue;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
